@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm Hugo, a passionate and dedicated software deve
 
 Here's a glimpse of some of the exciting projects I've worked on:
 
-### Pong Chat - Web Application
+### 🎮 Pong Chat - Web Application
 
 A web-based Pong game integrated with a live chat feature. Utilizes Next.js for the frontend and Nest.js for the backend.
 
@@ -14,7 +14,7 @@ A web-based Pong game integrated with a live chat feature. Utilizes Next.js for 
 - **Unique Features:** Real-time gameplay, chat functionality
 - [View Project](https://github.com/NewIron7/transcendence)
 
-### Custom Webserver - C++98
+### 💻 Custom Webserver - C++98
 
 Built a fully functional webserver from scratch, adhering strictly to the C++98 standard and compliant with HTTP/1.1 protocols.
 
@@ -22,7 +22,7 @@ Built a fully functional webserver from scratch, adhering strictly to the C++98 
 - **Functionality:** Request parsing, concurrent connections, file serving
 - [View Project](https://github.com/NewIron7/webserv)
 
-### Dockerized WordPress Infrastructure
+### 🐳 Dockerized WordPress Infrastructure
 
 Set up a simple yet robust infrastructure for a WordPress site using Docker Compose, focusing on ease of deployment and interoperability.
 
@@ -30,7 +30,7 @@ Set up a simple yet robust infrastructure for a WordPress site using Docker Comp
 - **Key Aspects:** Container orchestration, Network configuration
 - [View Project](https://github.com/NewIron7/Inception)
 
-### MiniShell - A Simple Bash POSIX
+### 🖥️ MiniShell - A Simple Bash POSIX
 
 A custom, lightweight shell replicating the functionality of Bash. Built to understand the intricacies of shell programming and process management.
 
@@ -38,7 +38,7 @@ A custom, lightweight shell replicating the functionality of Bash. Built to unde
 - **Features:** Command execution, environment variables, signal handling
 - [View Project](https://github.com/NewIron7/minishell)
 
-### Raycasting Game - Graphical Adventure
+### 🎮 Raycasting Game - Graphical Adventure
 
 Developed a 2D graphical game using raycasting techniques, reminiscent of classic FPS games.
 
@@ -54,7 +54,7 @@ Developed a 2D graphical game using raycasting techniques, reminiscent of classi
 
 ## 📫 How to Reach Me
 
-Feel free to connect with me for collaborations or just a chat:
+Feel free to connect with me for collaborations or just a chat🤝:
 
 - **Email:** [hboissel@student.42.fr](mailto:hboissel@student.42.fr)
 - [**LinkedIn:**](https://www.linkedin.com/in/hugoboissel/)
