@@ -44,7 +44,7 @@ A web-based Pong game integrated with a live chat feature. Utilizes Next.js for 
 
 - **Technologies:** Next.js, Nest.js, WebSocket, Prisma, Postgresql
 - **Unique Features:** Real-time gameplay, chat functionality
-- [View Project](#)
+- [View Project](https://github.com/NewIron7/transcendence)
 
 ## 🛠 Skills
 
