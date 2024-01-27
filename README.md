@@ -6,31 +6,15 @@ Welcome to my GitHub profile! I'm Hugo, a passionate and dedicated software deve
 
 Here's a glimpse of some of the exciting projects I've worked on:
 
-### 1. MiniShell - A Simple Bash POSIX
+### Pong Chat - Web Application
 
-A custom, lightweight shell replicating the functionality of Bash. Built to understand the intricacies of shell programming and process management.
+A web-based Pong game integrated with a live chat feature. Utilizes Next.js for the frontend and Nest.js for the backend.
 
-- **Technologies:** C
-- **Features:** Command execution, environment variables, signal handling
-- [View Project](https://github.com/NewIron7/minishell)
+- **Technologies:** Next.js, Nest.js, WebSocket, Prisma, Postgresql
+- **Unique Features:** Real-time gameplay, chat functionality
+- [View Project](https://github.com/NewIron7/transcendence)
 
-### 2. Raycasting Game - Graphical Adventure
-
-Developed a 2D graphical game using raycasting techniques, reminiscent of classic FPS games.
-
-- **Technologies:** C, Raycasting Algorithms
-- **Highlights:** Real-time rendering, collision detection
-- [View Project](https://github.com/NewIron7/cube3d)
-
-### 3. Dockerized WordPress Infrastructure
-
-Set up a simple yet robust infrastructure for a WordPress site using Docker Compose, focusing on ease of deployment and interoperability.
-
-- **Technologies:** Docker, Docker Compose, WordPress
-- **Key Aspects:** Container orchestration, Network configuration
-- [View Project](https://github.com/NewIron7/Inception)
-
-### 4. Custom Webserver - C++98
+### Custom Webserver - C++98
 
 Built a fully functional webserver from scratch, adhering strictly to the C++98 standard and compliant with HTTP/1.1 protocols.
 
@@ -38,13 +22,29 @@ Built a fully functional webserver from scratch, adhering strictly to the C++98 
 - **Functionality:** Request parsing, concurrent connections, file serving
 - [View Project](https://github.com/NewIron7/webserv)
 
-### 5. Pong Chat - Web Application
+### Dockerized WordPress Infrastructure
 
-A web-based Pong game integrated with a live chat feature. Utilizes Next.js for the frontend and Nest.js for the backend.
+Set up a simple yet robust infrastructure for a WordPress site using Docker Compose, focusing on ease of deployment and interoperability.
 
-- **Technologies:** Next.js, Nest.js, WebSocket, Prisma, Postgresql
-- **Unique Features:** Real-time gameplay, chat functionality
-- [View Project](https://github.com/NewIron7/transcendence)
+- **Technologies:** Docker, Docker Compose, WordPress
+- **Key Aspects:** Container orchestration, Network configuration
+- [View Project](https://github.com/NewIron7/Inception)
+
+### MiniShell - A Simple Bash POSIX
+
+A custom, lightweight shell replicating the functionality of Bash. Built to understand the intricacies of shell programming and process management.
+
+- **Technologies:** C
+- **Features:** Command execution, environment variables, signal handling
+- [View Project](https://github.com/NewIron7/minishell)
+
+### Raycasting Game - Graphical Adventure
+
+Developed a 2D graphical game using raycasting techniques, reminiscent of classic FPS games.
+
+- **Technologies:** C, Raycasting Algorithms
+- **Highlights:** Real-time rendering, collision detection
+- [View Project](https://github.com/NewIron7/cube3d)
 
 ## 🛠 Skills
 
