@@ -48,7 +48,7 @@ Developed a 2D graphical game using raycasting techniques, reminiscent of classi
 
 ## 🛠 Skills
 
-- **Languages:** C, C++, JavaScript, etc.
+- **Languages:** C, C++, Rust, JavaScript, etc.
 - **Technologies:** Docker, Next.js, Nest.js
 - **Interests:** Cybersecurity, Software Development
 
