@@ -10,9 +10,9 @@ Here's a glimpse of some of the exciting projects I've worked on:
 
 A web-based Pong game integrated with a live chat feature. Utilizes Next.js for the frontend and Nest.js for the backend.
 
-- **Technologies:** Next.js, Nest.js, WebSocket, Prisma, Postgresql
+- **Technologies:** Next.js, Nest.js, WebSocket, Prisma, PostgreSQL
 - **Unique Features:** Real-time gameplay, chat functionality
-- [View Project](https://github.com/NewIron7/transcendence)
+- [View Project](https://github.com/hboissel/transcendence)
 
 ### 💻 Custom Webserver - C++98
 
@@ -20,15 +20,15 @@ Built a fully functional webserver from scratch, adhering strictly to the C++98 
 
 - **Technologies:** C++, HTTP/1.1
 - **Functionality:** Request parsing, concurrent connections, file serving
-- [View Project](https://github.com/NewIron7/webserv)
+- [View Project](https://github.com/hboissel/webserv)
 
-### 🐳 Dockerized WordPress Infrastructure
+### ☁️ Cloud-1 - Dockerized WordPress Infrastructure with Ansible
 
-Set up a simple yet robust infrastructure for a WordPress site using Docker Compose, focusing on ease of deployment and interoperability.
+Deployed a Dockerized infrastructure for a WordPress website using Ansible, enhancing automation and infrastructure management.
 
-- **Technologies:** Docker, Docker Compose, WordPress
-- **Key Aspects:** Container orchestration, Network configuration
-- [View Project](https://github.com/NewIron7/Inception)
+- **Technologies:** Docker, Ansible, WordPress
+- **Key Aspects:** Infrastructure as Code, Automated Deployment
+- [View Project](https://github.com/hboissel/cloud-1)
 
 ### 🖥️ MiniShell - A Simple Bash POSIX
 
@@ -36,19 +36,27 @@ A custom, lightweight shell replicating the functionality of Bash. Built to unde
 
 - **Technologies:** C
 - **Features:** Command execution, environment variables, signal handling
-- [View Project](https://github.com/NewIron7/minishell)
+- [View Project](https://github.com/hboissel/minishell)
 
-### 🎮 Raycasting Game - Graphical Adventure
+### 🛡️ Inquisitor - ARP Poisoning Tool
 
-Developed a 2D graphical game using raycasting techniques, reminiscent of classic FPS games.
+A security project written in Rust, focusing on ARP poisoning attacks, network analysis, and mitigation techniques.
 
-- **Technologies:** C, Raycasting Algorithms
-- **Highlights:** Real-time rendering, collision detection
-- [View Project](https://github.com/NewIron7/cube3d)
+- **Technologies:** Rust, Networking, ARP Poisoning
+- **Focus:** Cybersecurity, Network Security
+- [View Project](https://github.com/hboissel/inquisitor)
+
+### 🔐 ft_otp - TOTP Implementation
+
+A simple implementation of TOTP (Time-based One-Time Password) for secure authentication.
+
+- **Technologies:** C
+- **Features:** OTP generation, Time-based security tokens
+- [View Project](https://github.com/hboissel/ft_otp)
 
 ## 🛠 Skills
 
-- **Languages:** C, C++, Rust, JavaScript, etc.
+- **Languages:** C, C++, Rust, Python, JavaScript, etc.
 - **Technologies:** Docker, Next.js, Nest.js
 - **Interests:** Cybersecurity, Software Development
 
@@ -58,4 +66,3 @@ Feel free to connect with me for collaborations or just a chat🤝:
 
 - **Email:** [hboissel@student.42.fr](mailto:hboissel@student.42.fr)
 - [**LinkedIn:**](https://www.linkedin.com/in/hugoboissel/)
-
