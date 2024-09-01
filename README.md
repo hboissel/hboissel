@@ -65,4 +65,4 @@ A simple implementation of TOTP (Time-based One-Time Password) for secure authen
 Feel free to connect with me for collaborations or just a chat🤝:
 
 - **Email:** [hboissel@student.42.fr](mailto:hboissel@student.42.fr)
-- [**LinkedIn:**](https://www.linkedin.com/in/hugoboissel/)
+- **LinkedIn:** [https://www.linkedin.com/in/hugoboissel/](https://www.linkedin.com/in/hugoboissel/)
