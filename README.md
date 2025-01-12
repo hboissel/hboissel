@@ -66,3 +66,11 @@ Feel free to connect with me for collaborations or just a chat🤝:
 
 - **Email:** [hboissel@student.42.fr](mailto:hboissel@student.42.fr)
 - **LinkedIn:** [https://www.linkedin.com/in/hugoboissel/](https://www.linkedin.com/in/hugoboissel/)
+
+  ## 📊 Stats  
+
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=hboissel&show_icons=true&bg_color=1e1b4b&title_color=a755f6&icon_color=a755f6&text_color=d8b4fe&border_color=1e1b4b" align="center" />
+</div>  
+<br>
+<div align="center"><img src="https://root-me-diff.vercel.app/rm-gh?nickname=NewIron7&style=midnight&gstats=show" /></div>
+<br/>  
