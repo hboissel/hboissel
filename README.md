@@ -1,6 +1,6 @@
 # Hugo's GitHub Profile
 
-Welcome to my GitHub profile! I'm Hugo, a passionate and dedicated software developer currently studying at 42 Paris, with a focus on cybersecurity. I love exploring new technologies and building projects that challenge my skills.
+Welcome to my GitHub profile! I'm Hugo, a passionate and dedicated IT Professional, with a focus on cybersecurity. I love exploring new technologies and building projects that challenge my skills.
 
 ## 🚀 My Projects
 
@@ -40,9 +40,9 @@ A custom, lightweight shell replicating the functionality of Bash. Built to unde
 
 ### 🛡️ Inquisitor - ARP Poisoning Tool
 
-A security project written in Rust, focusing on ARP poisoning attacks, network analysis, and mitigation techniques.
+A security project written in Rust, focusing on ARP poisoning attacks and network analysis.
 
-- **Technologies:** Rust, Networking, ARP Poisoning
+- **Technologies:** Rust, Networking
 - **Focus:** Cybersecurity, Network Security
 - [View Project](https://github.com/hboissel/inquisitor)
 
@@ -56,13 +56,11 @@ A simple implementation of TOTP (Time-based One-Time Password) for secure authen
 
 ## 🛠 Skills
 
-- **Languages:** C, C++, Rust, Python, JavaScript, etc.
+- **Languages:** C, C++, Rust, Python, JavaScript
 - **Technologies:** Docker, Next.js, Nest.js
 - **Interests:** Cybersecurity, Software Development
 
 ## 📫 How to Reach Me
-
-Feel free to connect with me for collaborations or just a chat🤝:
 
 - **Email:** [hboissel@student.42.fr](mailto:hboissel@student.42.fr)
 - **LinkedIn:** [https://www.linkedin.com/in/hugoboissel/](https://www.linkedin.com/in/hugoboissel/)
