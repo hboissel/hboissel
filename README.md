@@ -1,67 +1,50 @@
-# Hugo's GitHub Profile
+# Hugo Boissel
 
-Welcome to my GitHub profile! I'm Hugo, a passionate and dedicated IT Professional, with a focus on cybersecurity. I love exploring new technologies and building projects that challenge my skills.
+I am a security-focused developer trained at 42 School. I learn how systems fail by building them, reproducing attacks in isolated labs, and documenting the path from analysis to exploitation. 🙂
 
-## 🚀 My Projects
+[LinkedIn](https://www.linkedin.com/in/hugoboissel/) · [Email](mailto:hboissel@student.42.fr) · [All repositories](https://github.com/hboissel?tab=repositories)
 
-Here's a glimpse of some of the exciting projects I've worked on:
+## Projects 🧪
 
-### 🎮 Pong Chat - Web Application
+### [Override — Binary Exploitation](https://github.com/hboissel/override)
 
-A web-based Pong game integrated with a live chat feature. Utilizes Next.js for the frontend and Nest.js for the backend.
+Ten progressively hardened binary-exploitation challenges with reconstructed source code and detailed walkthroughs. The work covers stack overflows, format-string vulnerabilities, shellcode, GOT overwrites, return-to-libc, and exploitation under RELRO, NX, and PIE protections.
 
-- **Technologies:** Next.js, Nest.js, WebSocket, Prisma, PostgreSQL
-- **Unique Features:** Real-time gameplay, chat functionality
-- [View Project](https://github.com/hboissel/transcendence)
+`C` `Python` `x86` `GDB` `ELF` `ret2libc`
 
-### 💻 Custom Webserver - C++98
+### [Inquisitor — ARP Spoofing & Traffic Inspection](https://github.com/hboissel/inquisitor)
 
-Built a fully functional webserver from scratch, adhering strictly to the C++98 standard and compliant with HTTP/1.1 protocols.
+A Rust man-in-the-middle lab that forges ARP replies, captures Ethernet/IPv4/TCP traffic, extracts filenames from FTP transfers, and restores the victims' ARP tables when interrupted. A three-container Docker environment provides a controlled attacker/victim test network.
 
-- **Technologies:** C++, HTTP/1.1
-- **Functionality:** Request parsing, concurrent connections, file serving
-- [View Project](https://github.com/hboissel/webserv)
+`Rust` `pnet` `ARP` `TCP/IP` `Docker` `Packet Analysis`
 
-### ☁️ Cloud-1 - Dockerized WordPress Infrastructure with Ansible
+### [Snow Crash — Linux Security & Privilege Escalation](https://github.com/hboissel/snow-crash)
 
-Deployed a Dockerized infrastructure for a WordPress website using Ansible, enhancing automation and infrastructure management.
+Fifteen documented security challenges covering password and hash analysis, PATH hijacking, symlink abuse, command injection, weak service configurations, and debugger-assisted program analysis.
 
-- **Technologies:** Docker, Ansible, WordPress
-- **Key Aspects:** Infrastructure as Code, Automated Deployment
-- [View Project](https://github.com/hboissel/cloud-1)
+`Linux` `GDB` `Shell` `Python` `Privilege Escalation`
 
-### 🖥️ MiniShell - A Simple Bash POSIX
+### [BADASS — Network Architecture Lab](https://github.com/hboissel/BADASS)
 
-A custom, lightweight shell replicating the functionality of Bash. Built to understand the intricacies of shell programming and process management.
+A GNS3 and Docker network lab that progresses from custom router containers to a VXLAN overlay and a BGP EVPN control plane, using OSPF as the underlay and FRRouting for routing services.
 
-- **Technologies:** C
-- **Features:** Command execution, environment variables, signal handling
-- [View Project](https://github.com/hboissel/minishell)
+`GNS3` `Docker` `FRRouting` `VXLAN` `BGP EVPN` `OSPF`
 
-### 🛡️ Inquisitor - ARP Poisoning Tool
+### [ft_ssl — Cryptographic Primitives in C](https://github.com/hboissel/ft_ssl)
 
-A security project written in Rust, focusing on ARP poisoning attacks and network analysis.
+An OpenSSL-style command-line tool implementing MD5 and SHA-256 in C, including file, string, and standard-input processing with compatible output modes.
 
-- **Technologies:** Rust, Networking
-- **Focus:** Cybersecurity, Network Security
-- [View Project](https://github.com/hboissel/inquisitor)
+`C` `MD5` `SHA-256` `Cryptography` `CLI`
 
-### 🔐 ft_otp - TOTP Implementation
+## Additional security work 🔐
 
-A simple implementation of TOTP (Time-based One-Time Password) for secure authentication.
+* [Rainfall](https://github.com/hboissel/rainfall) — binary-exploitation exercises involving stack overflows, format strings, function-pointer corruption, shellcode, and integer overflow.
+* [ft_otp](https://github.com/hboissel/ft_otp) — TOTP generation, encrypted key storage, and QR-code enrollment implemented in Rust.
+* [Arachnida](https://github.com/hboissel/Arachnida) — a recursive web image collector and an EXIF/metadata inspection utility.
+* [ft_onion](https://github.com/hboissel/ft_onion) — a containerized Tor onion service with SSH hardening.
+* [Stockholm](https://github.com/hboissel/stockholm) — a file-encryption/decryption simulation restricted to a controlled test directory.
 
-- **Technologies:** C
-- **Features:** OTP generation, Time-based security tokens
-- [View Project](https://github.com/hboissel/ft_otp)
+## Systems foundations 🛠️
 
-## 🛠 Skills
-
-- **Languages:** C, C++, Rust, Python, JavaScript
-- **Technologies:** Docker, Next.js, Nest.js
-- **Interests:** Cybersecurity, Software Development
-
-## 📫 How to Reach Me
-
-- **Email:** [hboissel@student.42.fr](mailto:hboissel@student.42.fr)
-- **LinkedIn:** [https://www.linkedin.com/in/hugoboissel/](https://www.linkedin.com/in/hugoboissel/)
-
+* [malloc](https://github.com/hboissel/malloc) — a C allocator with `mmap`-backed zones, block splitting/coalescing, memory inspection, and `LD_PRELOAD` support.
+* [webserv](https://github.com/hboissel/webserv) — an HTTP/1.1 web server written from scratch in C++98, including request parsing, concurrent connections, and CGI handling.
